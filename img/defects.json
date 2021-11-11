@@ -1,0 +1,91 @@
+{
+    "R16b-1_i01-Cell_018.jpg":
+    {
+	"n": 0,
+	"filename": "R16b-1_i01-Cell_018.jpg",
+	"size": [3488,2616],
+	"defect":[
+	    {
+		"No": 1,
+		"position": [1663,467,1728,524],
+		"possibility": 1.00,
+		"notes": "Test data"
+	    }
+	]
+    },
+    "R16b-1_i01-Cell_027.jpg":
+    {
+	"n": 1,
+	"filename": "R16b-1_i01-Cell_027.jpg",
+	"size": [3488,2616],
+	"defect":[
+	    {
+		"No": 1,
+		"position": [1678,2329,1726,2375],
+		"possibility": 1.00,
+		"notes": "Test data"
+	    }
+	]
+    },
+    "R16b-1_i01-Cell_180.jpg":
+    {
+	"n": 2,
+	"filename": "R16b-1_i01-Cell_180.jpg",
+	"size": [3488,2616],
+	"defect":[
+	    {
+		"No": 1,
+		"position": [2048,2372,2153,2460],
+		"possibility": 1.00,
+		"notes": "Test data"
+	    }
+	]
+    },
+    "R16b-1_i01-Cell_198.jpg":
+    {
+	"n": 3,
+	"filename": "R16b-1_i01-Cell_198.jpg",
+	"size": [3488,2616],
+	"defect":[
+	    {
+		"No": 1,
+		"position": [1995,2058,2084,2140],
+		"possibility": 1.00,
+		"notes": "Test data"
+	    }
+	]
+    },
+    "R16b-1_i01-Cell_279_2.jpg":
+    {
+	"n": 4,
+	"filename": "R16b-1_i01-Cell_279_2.jpg",
+	"size": [3488,2616],
+	"defect":[
+	    {
+		"No": 1,
+		"position": [1261,1525,1310,1573],
+		"possibility": 1.00,
+		"notes": "Test data"
+	    }
+	]
+    },
+    "R16b-1_i12-Center_063_2.jpg":
+    {
+	"n": 5,
+	"filename": "R16b-1_i12-Center_063_2.jpg",
+	"size": [3488,2616],
+	"defect":[
+	    {
+		"No": 1,
+		"position": [1363,396,1472,445],
+		"possibility": 1.00,
+		"notes": "Test data"
+	    },{
+		"No": 2,
+		"position": [1000,500,1200,700],
+		"possibility": 0.20,
+		"notes": "Test data (not defect)"
+	    }
+	]
+    }
+}
